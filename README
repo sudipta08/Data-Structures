@@ -1,3 +1,6 @@
 01_PROBLEM_STRING: Find the count of occurrence of each letter in a string
 02_PROBLEM_SQUARE_ARRAY: Check if square of elements of one array is present in another (frequency counter pattern)
 03_PROBLEM_ANAGRAM: Check if one string is anagram of another (frequency counter pattern)
+04_PROBLEM_SUM_ARRAY: Find the pair of elements where sum is a certain number (multiple pointers pattern)
+05_PROBLEM_UNIQUE_ARRAY: Given an array, find the number of unique elements in it (multiple pointers pattern)
+06_PROBLEM_SUBARRAY: Given an array, find the max sum of n consecutive numbers (sliding window pattern)
